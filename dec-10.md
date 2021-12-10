@@ -50,3 +50,21 @@ false
 //Input: "hello world"
 "Hello World"
 ```
+
+## 05. Longest Word
+
+* Given a phrase, find the longest word. 
+
+**Example**
+```js
+//Input: "Find the longest word"
+"longest"
+```
+
+## Additional Practice
+
+Getting good at problem solving and algorithms takes practice! If you want even more algorithms these sites have plenty.
+
+* [HackerRank](https://www.hackerrank.com)
+* [LeetCode](https://leetcode.com/)
+* [CodeWars](https://www.codewars.com/)
