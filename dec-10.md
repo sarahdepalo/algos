@@ -28,3 +28,25 @@ Tackle these independently or together. Attempt to write a solution before you g
 ```js
 const array = [1, 2, 3, 5, 1, 5, 9, 1, 2, 8]
 // Expected Return: [1, 2, 3, 5, 9, 8]
+```
+## 03. Anagram
+
+* An anagram is a word formed by rearranging the letters of another, such as elbow and below. Given two strings, check if they are anagrams. Return true if an anagram and false if not.
+
+**Example**
+```js
+//Input "dog" "god"
+true
+//Input "cat" "rat" 
+false
+```
+
+## 04. Capitalization
+
+* Given a phrase, capitalize **every** word.
+
+**Example**
+```js
+//Input: "hello world"
+"Hello World"
+```
